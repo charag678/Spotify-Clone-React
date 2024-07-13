@@ -1,6 +1,6 @@
 # Spotify Clone 🎧
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+A Spotify clone built with React JS ,Tailwind CSS and API, showcasing a dynamic and responsive user interface. 
 
 ## Table of Contents 📋
 
